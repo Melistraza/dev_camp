@@ -17,4 +17,4 @@ or
 `python metrics.py mem`
 
 
-**For additional help use:** python metrics.py -h
+**For additional help use:** `python metrics.py -h`
